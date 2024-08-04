@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 ## **Projects**
 - Excel_Atliq-Reports
 
-# **Let's Connect!**
+## **Let's Connect!**
 
-![image](https://github.com/user-attachments/assets/0c4a0324-8160-4b04-b4ec-484fa0f87c4a)
-![image](https://github.com/user-attachments/assets/28b3ea13-4add-4524-8ff2-e67f76fd01d9)
+[![image](https://github.com/user-attachments/assets/0c4a0324-8160-4b04-b4ec-484fa0f87c4a)](https://www.linkedin.com/in/krushant308/)
+[![image](https://github.com/user-attachments/assets/28b3ea13-4add-4524-8ff2-e67f76fd01d9)](mailto:Krushant7932@gmail.com)
 
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
