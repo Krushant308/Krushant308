@@ -9,15 +9,16 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 - 🎓 Master's in Techanical Logistics
 
 ## **Tools and Languages**
-- ![image](https://github.com/user-attachments/assets/7925e156-5332-46cc-955d-7c730b054940)
+![image](https://github.com/user-attachments/assets/7925e156-5332-46cc-955d-7c730b054940)
 
-- ![image](https://github.com/user-attachments/assets/3de34ebc-8b0e-4270-88a8-68a26605b354)
+![image](https://github.com/user-attachments/assets/3de34ebc-8b0e-4270-88a8-68a26605b354)
 
-- ![image](https://github.com/user-attachments/assets/47195ea4-ba25-40eb-9c34-fda62d28c454)
+![image](https://github.com/user-attachments/assets/47195ea4-ba25-40eb-9c34-fda62d28c454)
 
-- ![image](https://github.com/user-attachments/assets/2599eb59-1c4b-4d05-82e7-ded061f96aa4)
+![image](https://github.com/user-attachments/assets/2599eb59-1c4b-4d05-82e7-ded061f96aa4)
 
 ## **Projects**
+
 - [AtliQ_Hardware Sales and Financial Performance Analysis](https://github.com/Krushant308/Excel_AtliQ-Reports/tree/main) : 
 
 ## **Let's Connect!**
